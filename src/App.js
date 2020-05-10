@@ -1,15 +1,12 @@
-import React from 'react';
-import Layout from './componets/Layout/Layout';
-import BurgerBuilder from './containers/BurgerBuilder/BurgerBuilder';
+import React from "react";
+import TodoApp from "./componets/TodoApp/TodoApp";
 
 const App = () => {
   return (
     <div>
-      <Layout>
-        <BurgerBuilder />
-      </Layout>
+      <TodoApp />
     </div>
   );
-}
+};
 
 export default App;
