@@ -1,0 +1,17 @@
+.App {
+  background-color: thistle;
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 5px;
+  grid-template-areas:
+    "h h"
+    "n c"
+    "f f";
+}
+
+.content {
+  height: 460px;
+  border: solid 1px black;
+  background-color: gray;
+  grid-area: c;
+}

@@ -1,0 +1,29 @@
+.Header {
+    height: 115px;
+    border: solid 1px black;
+    background-color: rgb(150, 152, 158);
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-area: h;
+  }
+
+  .Header img {
+      width: 25%;
+      height: 110px;
+      padding: 2px;
+  }
+
+  .Header .in {
+      float: right;
+      padding-right: 80px;
+
+  }
+
+  .Header .in input {
+      display: block;
+      width: 150px;
+      margin: 8px;
+  }
+
+  .Header .in h3 {
+      color: rgb(75, 33, 3);
+  }

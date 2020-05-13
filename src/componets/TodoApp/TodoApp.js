@@ -10,6 +10,7 @@ function TodoApp() {
   return (
     <Provider store={store}>
       <div className="main">
+        <h2>Todo App</h2>
         <TodoInput />
         <TodoList />
       </div>

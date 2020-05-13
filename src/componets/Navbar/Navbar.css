@@ -1,0 +1,23 @@
+.navbar {
+  height: 460px;
+  border: solid 1px black;
+  background-color: rgb(94, 88, 88);
+  font-size: 20px;
+  text-decoration: none;
+  grid-area: n;
+}
+
+.navbar .les div {
+  margin: 8px;
+}
+
+.navbar a {
+  padding-left: 25px;
+  text-decoration: none;
+  color: black;
+}
+
+.navbar img {
+    padding: 4px;
+    width: 220px;
+}

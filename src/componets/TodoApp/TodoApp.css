@@ -2,3 +2,8 @@
     max-width: 350px;
     margin: 20px auto;
 }
+
+.main h2 {
+    text-align: center;
+    color: blue;
+}

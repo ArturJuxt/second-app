@@ -1,0 +1,9 @@
+.Futer {
+    height: 50px;
+    border: solid 1px black;
+    background-color: rgb(30, 29, 31);
+    color: blanchedalmond;
+    text-align: center;
+    font-size: 10px;
+    grid-area: f;
+  }
