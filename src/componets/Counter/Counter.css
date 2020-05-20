@@ -1,0 +1,9 @@
+.counter {
+    text-align: center;
+    padding: 5px;
+    height: 450px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 220px;
+    grid-gap: 10px;
+}

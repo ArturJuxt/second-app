@@ -1,0 +1,11 @@
+.inF {
+  padding: 20px;
+  border: solid 1px black;
+  background-color: rgb(160, 151, 151);
+  grid-area: in;
+}
+
+.inF input {
+    margin: 15px;
+    display: block;
+}

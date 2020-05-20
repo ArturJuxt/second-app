@@ -1,0 +1,22 @@
+.counterhook {
+  border: solid 1px black;
+  background-color: rgb(160, 151, 151);
+}
+
+.counterhook h2 {
+  padding-bottom: 30px;
+}
+
+.class_btn {
+  width: 60px;
+  margin: 20px;
+  background-color: blue;
+  color: black;
+  border: solid 1px black;
+  font-size: 18px;
+}
+
+.class_span {
+  font-size: 30px;
+}
+

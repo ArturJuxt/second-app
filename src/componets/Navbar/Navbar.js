@@ -16,10 +16,10 @@ const Navbar = () => {
           <NavLink to="/TodoApp">TodoApp</NavLink>
         </div>
         <div>
-          <NavLink to="/Lesson2">Lesson 2</NavLink>
+          <NavLink to="/Form">Form</NavLink>
         </div>
         <div>
-          <NavLink to="/Lesson3">Lesson 3</NavLink>
+          <NavLink to="/Counter">Counters</NavLink>
         </div>
         <div>
           <NavLink to="/Lesson4">Lesson 4</NavLink>

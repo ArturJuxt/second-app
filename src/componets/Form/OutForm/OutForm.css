@@ -1,0 +1,11 @@
+.outF {
+  padding: 20px;
+  border: solid 1px black;
+  background-color: rgb(160, 151, 151);
+  grid-area: out;
+}
+
+.outF div {
+    margin: 15px;
+    display: block;
+}
